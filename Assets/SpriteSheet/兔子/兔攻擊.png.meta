@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: ec28b42f7743e554cbc0c0e3f6aba6eb
+timeCreated: 1448549882
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u5154\u653B\u64CA_0"
+    21300002: "\u5154\u653B\u64CA_1"
+    21300004: "\u5154\u653B\u64CA_2"
+    21300006: "\u5154\u653B\u64CA_3"
+    21300008: "\u5154\u653B\u64CA_4"
+    21300010: "\u5154\u653B\u64CA_5"
+    21300012: "\u5154\u653B\u64CA_6"
+    21300014: "\u5154\u653B\u64CA_7"
+    21300016: "\u5154\u653B\u64CA_8"
+    21300018: "\u5154\u653B\u64CA_9"
+    21300020: "\u5154\u653B\u64CA_10"
+    21300022: "\u5154\u653B\u64CA_11"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "\u5154\u653B\u64CA_0"
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3727
+        width: 1171
+        height: 705
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_1"
+      rect:
+        serializedVersion: 2
+        x: 1919
+        y: 3732
+        width: 1011
+        height: 753
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_2"
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 2407
+        width: 939
+        height: 1119
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_3"
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 2522
+        width: 935
+        height: 981
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_4"
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 2541
+        width: 952
+        height: 782
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_5"
+      rect:
+        serializedVersion: 2
+        x: 4170
+        y: 2387
+        width: 726
+        height: 825
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_6"
+      rect:
+        serializedVersion: 2
+        x: 5547
+        y: 2613
+        width: 549
+        height: 520
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_7"
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 1294
+        width: 781
+        height: 818
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_8"
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 1344
+        width: 1077
+        height: 1032
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_9"
+      rect:
+        serializedVersion: 2
+        x: 2995
+        y: 1379
+        width: 831
+        height: 1028
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_10"
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 59
+        width: 1173
+        height: 1058
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u5154\u653B\u64CA_11"
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 106
+        width: 1089
+        height: 900
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

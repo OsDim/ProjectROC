@@ -1,0 +1,209 @@
+fileFormatVersion: 2
+guid: 34502eb2b9acdcc4aa720ccc46a4357f
+timeCreated: 1439028145
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: AA_0
+    21300002: AA_1
+    21300004: AA_2
+    21300006: AA_3
+    21300008: AA_4
+    21300010: AA_5
+    21300012: AA_6
+    21300014: AA_7
+    21300016: AA_8
+    21300018: AA_9
+    21300020: AA_10
+    21300022: AA_11
+    21300024: AA_12
+    21300026: AA_13
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 200
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: AA_0
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 3824
+        width: 825
+        height: 989
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_1
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 3805
+        width: 827
+        height: 989
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_2
+      rect:
+        serializedVersion: 2
+        x: 2250
+        y: 3805
+        width: 825
+        height: 835
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_3
+      rect:
+        serializedVersion: 2
+        x: 3270
+        y: 3829
+        width: 825
+        height: 938
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_4
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 3851
+        width: 757
+        height: 1106
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_5
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 2706
+        width: 828
+        height: 938
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_6
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 2841
+        width: 827
+        height: 835
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_7
+      rect:
+        serializedVersion: 2
+        x: 2191
+        y: 2806
+        width: 825
+        height: 835
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_8
+      rect:
+        serializedVersion: 2
+        x: 3187
+        y: 2726
+        width: 825
+        height: 835
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_9
+      rect:
+        serializedVersion: 2
+        x: 4105
+        y: 2618
+        width: 825
+        height: 894
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_10
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1569
+        width: 877
+        height: 817
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_11
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 1503
+        width: 876
+        height: 761
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_12
+      rect:
+        serializedVersion: 2
+        x: 2264
+        y: 1505
+        width: 818
+        height: 940
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: AA_13
+      rect:
+        serializedVersion: 2
+        x: 3256
+        y: 1500
+        width: 793
+        height: 972
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

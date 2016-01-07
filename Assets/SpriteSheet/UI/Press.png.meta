@@ -1,0 +1,216 @@
+fileFormatVersion: 2
+guid: bb22288325100b341b4ebcc83e0bd930
+timeCreated: 1450999123
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Press_0
+    21300002: Press_1
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Press_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 185
+        width: 395
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -72.5, y: 12}
+        - {x: -89.5, y: 12}
+        - {x: -93.5, y: 7}
+        - {x: -94.5, y: 4}
+        - {x: -94.5, y: -5}
+        - {x: -91.5, y: -6}
+        - {x: -96.5, y: -2}
+        - {x: -94.5, y: 3}
+        - {x: -93.5, y: 7}
+        - {x: -98.5, y: 12}
+        - {x: -165.5, y: 12}
+        - {x: -165.5, y: -21}
+        - {x: -70.5, y: -21}
+        - {x: -69.5, y: -19}
+        - {x: -69.5, y: 8}
+      - - {x: -14.5, y: 19}
+        - {x: -19.5, y: 16}
+        - {x: -19.5, y: -21}
+        - {x: 31.5, y: -21}
+        - {x: 31.5, y: 7}
+        - {x: 26.5, y: 19}
+      - - {x: 93.5, y: -15}
+        - {x: 95.5, y: -21}
+        - {x: 137.5, y: -21}
+        - {x: 137.5, y: 12}
+        - {x: 122.5, y: 20}
+        - {x: 50.5, y: 20}
+        - {x: 47.5, y: 19}
+        - {x: 38.5, y: -18}
+        - {x: 38.5, y: -21}
+        - {x: 93.5, y: -21}
+        - {x: 93.5, y: -15}
+        - {x: 91.5, y: -10}
+        - {x: 93.5, y: -12}
+      - - {x: 138.5, y: -17}
+        - {x: 143.5, y: -21}
+        - {x: 161.5, y: -21}
+        - {x: 165.5, y: -20}
+        - {x: 165.5, y: 12}
+        - {x: 140.5, y: 12}
+        - {x: 138.5, y: 11}
+      - - {x: -196.5, y: 20}
+        - {x: -196.5, y: -20}
+        - {x: -180.5, y: -20}
+        - {x: -165.5, y: -3}
+        - {x: -165.5, y: 14}
+        - {x: -173.5, y: 20}
+      - - {x: -59.5, y: 20}
+        - {x: -59.5, y: -20}
+        - {x: -29.5, y: -20}
+        - {x: -29.5, y: 20}
+      - - {x: 165.5, y: 23}
+        - {x: 165.5, y: -20}
+        - {x: 196.5, y: -20}
+        - {x: 196.5, y: 22}
+        - {x: 195.5, y: 23}
+    - name: Press_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 98
+        width: 430
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -41, y: 16.5}
+        - {x: -46, y: 14.5}
+        - {x: -46, y: -25.5}
+        - {x: -35, y: -25.5}
+        - {x: 11, y: -16.5}
+        - {x: 11, y: 11.5}
+        - {x: 6, y: 16.5}
+      - - {x: 212, y: 16.5}
+        - {x: 183, y: 16.5}
+        - {x: 183, y: -25.5}
+        - {x: 195, y: -25.5}
+        - {x: 197, y: -24.5}
+        - {x: 212, y: -18.5}
+        - {x: 214, y: -9.5}
+        - {x: 214, y: 13.5}
+      - - {x: -112, y: 8.5}
+        - {x: -112, y: -0.5}
+        - {x: -109, y: -1.5}
+        - {x: -114, y: 2.5}
+        - {x: -112, y: 7.5}
+        - {x: -111, y: 11.5}
+        - {x: -115, y: 16.5}
+        - {x: -183, y: 16.5}
+        - {x: -183, y: -16.5}
+        - {x: -90, y: -16.5}
+        - {x: -87, y: -15.5}
+        - {x: -87, y: 13.5}
+        - {x: -88, y: 16.5}
+        - {x: -107, y: 16.5}
+        - {x: -111, y: 11.5}
+      - - {x: -53, y: 25.5}
+        - {x: -74, y: 25.5}
+        - {x: -77, y: 20.5}
+        - {x: -77, y: -16.5}
+        - {x: -49, y: -16.5}
+        - {x: -46, y: -9.5}
+        - {x: -46, y: 20.5}
+      - - {x: 48, y: 16.5}
+        - {x: 43, y: 15.5}
+        - {x: 39, y: 10.5}
+        - {x: 37, y: 5.5}
+        - {x: 39, y: 9.5}
+        - {x: 40, y: 14.5}
+        - {x: 34, y: 16.5}
+        - {x: 20, y: 16.5}
+        - {x: 12, y: 8.5}
+        - {x: 12, y: -13.5}
+        - {x: 19, y: -16.5}
+        - {x: 66, y: -16.5}
+        - {x: 66, y: 12.5}
+        - {x: 64, y: 16.5}
+      - - {x: 90, y: 24.5}
+        - {x: 75, y: -2.5}
+        - {x: 75, y: -9.5}
+        - {x: 78, y: -16.5}
+        - {x: 98, y: -16.5}
+        - {x: 102, y: -8.5}
+        - {x: 102, y: 24.5}
+      - - {x: 123, y: 15.5}
+        - {x: 122, y: 13.5}
+        - {x: 116, y: 15.5}
+        - {x: 105, y: 15.5}
+        - {x: 105, y: -10.5}
+        - {x: 110, y: -16.5}
+        - {x: 134, y: -16.5}
+        - {x: 134, y: 15.5}
+      - - {x: -213, y: 24.5}
+        - {x: -214, y: 22.5}
+        - {x: -214, y: -13.5}
+        - {x: -212, y: -15.5}
+        - {x: -203, y: -15.5}
+        - {x: -183, y: 0.5}
+        - {x: -183, y: 20.5}
+        - {x: -189, y: 24.5}
+      - - {x: 136, y: 16.5}
+        - {x: 136, y: -15.5}
+        - {x: 181, y: -15.5}
+        - {x: 181, y: 13.5}
+        - {x: 178, y: 16.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

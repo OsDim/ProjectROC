@@ -1,0 +1,1312 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!74 &7400000
+AnimationClip:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_Name: rock_idle_atk3
+  serializedVersion: 6
+  m_Legacy: 0
+  m_Compressed: 0
+  m_UseHighQualityCurve: 1
+  m_RotationCurves: []
+  m_CompressedRotationCurves: []
+  m_EulerCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -6.629611}
+        inSlope: {x: 0, y: 0, z: -104.5776}
+        outSlope: {x: 0, y: 0, z: -104.5776}
+        tangentMode: 0
+      - time: 0.083333336
+        value: {x: 0, y: 0, z: -15.344411}
+        inSlope: {x: 0, y: 0, z: -18.134361}
+        outSlope: {x: 0, y: 0, z: -18.134361}
+        tangentMode: 0
+      - time: 0.25
+        value: {x: 0, y: 0, z: -3.9596}
+        inSlope: {x: 0, y: 0, z: 57.912033}
+        outSlope: {x: 0, y: 0, z: 57.912033}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 23.757597}
+        outSlope: {x: 0, y: 0, z: 23.757597}
+        tangentMode: 0
+      - time: 0.41666666
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.5833333
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: weaponKnife
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 0, y: 0, z: -12.4071}
+        inSlope: {x: 0, y: 0, z: 332.60516}
+        outSlope: {x: 0, y: 0, z: 332.60516}
+        tangentMode: 0
+      - time: 0.083333336
+        value: {x: 0, y: 0, z: 15.309999}
+        inSlope: {x: 0, y: 0, z: 141.77458}
+        outSlope: {x: 0, y: 0, z: 141.77458}
+        tangentMode: 0
+      - time: 0.16666667
+        value: {x: 0, y: 0, z: 11.222}
+        inSlope: {x: 0, y: 0, z: -65.886}
+        outSlope: {x: 0, y: 0, z: -65.886}
+        tangentMode: 0
+      - time: 0.25
+        value: {x: 0, y: 0, z: 4.329}
+        inSlope: {x: 0, y: 0, z: -67.332}
+        outSlope: {x: 0, y: 0, z: -67.332}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: 0, y: 0, z: 0}
+        inSlope: {x: 0, y: 0, z: -51.947994}
+        outSlope: {x: 0, y: 0, z: -51.947994}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: weaponKnife/weaponKnifeCollider
+  m_PositionCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: -6.68, y: -4.654189, z: -0.5}
+        inSlope: {x: -37.199997, y: 4.6102695, z: 0}
+        outSlope: {x: -37.199997, y: 4.6102695, z: 0}
+        tangentMode: 0
+      - time: 0.083333336
+        value: {x: -9.78, y: -4.27, z: -0.5}
+        inSlope: {x: 1.0799999, y: -0.6948652, z: 0}
+        outSlope: {x: 1.0799999, y: -0.6948652, z: 0}
+        tangentMode: 0
+      - time: 0.16666667
+        value: {x: -6.5, y: -4.77, z: -0.5}
+        inSlope: {x: 34.139954, y: 5.880002, z: 0}
+        outSlope: {x: 34.139954, y: 5.880002, z: 0}
+        tangentMode: 0
+      - time: 0.25
+        value: {x: -4.0900073, y: -3.2899997, z: -0.5}
+        inSlope: {x: 62.519997, y: 30.239998, z: 0}
+        outSlope: {x: 62.519997, y: 30.239998, z: 0}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: 3.92, y: 0.27, z: -0.5}
+        inSlope: {x: 48.06004, y: 21.359995, z: 0}
+        outSlope: {x: 48.06004, y: 21.359995, z: 0}
+        tangentMode: 0
+      - time: 0.41666666
+        value: {x: 3.92, y: 0.27, z: -0.5}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.5
+        value: {x: 3.92, y: 0.27, z: -0.5}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      - time: 0.5833333
+        value: {x: 3.92, y: 0.27, z: -0.5}
+        inSlope: {x: 0, y: 0, z: 0}
+        outSlope: {x: 0, y: 0, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: weaponKnife
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: {x: 5.61, y: 0, z: 0}
+        inSlope: {x: 96.47992, y: 79.07998, z: 0}
+        outSlope: {x: 96.47992, y: 79.07998, z: 0}
+        tangentMode: 0
+      - time: 0.083333336
+        value: {x: 13.649993, y: 6.5899982, z: 0}
+        inSlope: {x: 41.640003, y: 36, z: 0}
+        outSlope: {x: 41.640003, y: 36, z: 0}
+        tangentMode: 0
+      - time: 0.16666667
+        value: {x: 12.55, y: 6, z: 0}
+        inSlope: {x: -11.579956, y: -3.5399895, z: 0}
+        outSlope: {x: -11.579956, y: -3.5399895, z: 0}
+        tangentMode: 0
+      - time: 0.25
+        value: {x: 11.72, y: 6, z: 0}
+        inSlope: {x: -19.739998, y: -32.519997, z: 0}
+        outSlope: {x: -19.739998, y: -32.519997, z: 0}
+        tangentMode: 0
+      - time: 0.33333334
+        value: {x: 9.26, y: 0.58, z: 0}
+        inSlope: {x: -29.519997, y: -65.03999, z: 0}
+        outSlope: {x: -29.519997, y: -65.03999, z: 0}
+        tangentMode: 0
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    path: weaponKnife/weaponKnifeCollider
+  m_ScaleCurves: []
+  m_FloatCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.083333336
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.33333334
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: weaponKnife/weaponKnifeCollider
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.17329359
+        inSlope: 28.107674
+        outSlope: 28.107674
+        tangentMode: 10
+      - time: 0.083333336
+        value: 2.5155997
+        inSlope: 2.9741535
+        outSlope: 2.9741535
+        tangentMode: 10
+      - time: 0.16666667
+        value: 0.66898584
+        inSlope: -11.081834
+        outSlope: -11.081834
+        tangentMode: 10
+      - time: 0.25
+        value: 0.66862744
+        inSlope: -0.004300833
+        outSlope: -0.004300833
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Offset.x
+    path: weaponKnife/weaponKnifeCollider
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.2888439
+        inSlope: 10.402207
+        outSlope: 10.402207
+        tangentMode: 10
+      - time: 0.083333336
+        value: 1.1556945
+        inSlope: 10.223939
+        outSlope: 10.223939
+        tangentMode: 10
+      - time: 0.16666667
+        value: 1.9928337
+        inSlope: -11.714191
+        outSlope: -11.714191
+        tangentMode: 10
+      - time: 0.25
+        value: -0.7966702
+        inSlope: -33.474052
+        outSlope: -33.474052
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Offset.y
+    path: weaponKnife/weaponKnifeCollider
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.3466188
+        inSlope: 108.27482
+        outSlope: 108.27482
+        tangentMode: 10
+      - time: 0.083333336
+        value: 10.36952
+        inSlope: 76.30177
+        outSlope: 76.30177
+        tangentMode: 10
+      - time: 0.16666667
+        value: 14.0635805
+        inSlope: 22.164356
+        outSlope: 22.164356
+        tangentMode: 10
+      - time: 0.25
+        value: 14.06358
+        inSlope: -0.000011444093
+        outSlope: -0.000011444093
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Size.x
+    path: weaponKnife/weaponKnifeCollider
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.25814
+        inSlope: -20.80279
+        outSlope: -20.80279
+        tangentMode: 10
+      - time: 0.083333336
+        value: 2.5245743
+        inSlope: 5.5576544
+        outSlope: 5.5576544
+        tangentMode: 10
+      - time: 0.16666667
+        value: 5.184416
+        inSlope: 17.434708
+        outSlope: 17.434708
+        tangentMode: 10
+      - time: 0.25
+        value: 5.430359
+        inSlope: 2.951317
+        outSlope: 2.951317
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Size.y
+    path: weaponKnife/weaponKnifeCollider
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.083333336
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.5
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.5833333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.6666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Eff
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.083333336
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.5
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.5833333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.6666667
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: canAtk1
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: 89e7d87696fda0d43833ba95c29132ad, type: 3}
+  m_PPtrCurves:
+  - curve:
+    - time: 0
+      value: {fileID: 21300004, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300006, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - time: 0.25
+      value: {fileID: 21300008, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - time: 0.33333334
+      value: {fileID: 21300010, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300010, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - time: 0.5833333
+      value: {fileID: 21300010, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    attribute: m_Sprite
+    path: weaponKnife
+    classID: 212
+    script: {fileID: 0}
+  - curve:
+    - time: 0
+      value: {fileID: 21300000, guid: 9cf1088b8326e30499cba769b6ec8940, type: 3}
+    - time: 0.083333336
+      value: {fileID: 21300004, guid: 9cf1088b8326e30499cba769b6ec8940, type: 3}
+    - time: 0.16666667
+      value: {fileID: 21300002, guid: fb7dd26a34443204395b9249d4ede07c, type: 3}
+    - time: 0.25
+      value: {fileID: 21300004, guid: fb7dd26a34443204395b9249d4ede07c, type: 3}
+    - time: 0.41666666
+      value: {fileID: 21300004, guid: fb7dd26a34443204395b9249d4ede07c, type: 3}
+    attribute: m_Sprite
+    path: 
+    classID: 212
+    script: {fileID: 0}
+  m_SampleRate: 12
+  m_WrapMode: 0
+  m_Bounds:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0, y: 0, z: 0}
+  m_ClipBindingConstant:
+    genericBindings:
+    - path: 2663067592
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1678850031
+      attribute: 1
+      script: {fileID: 0}
+      classID: 4
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2663067592
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 1678850031
+      attribute: 4
+      script: {fileID: 0}
+      classID: 4
+      customType: 14
+      isPPtrCurve: 0
+    - path: 1678850031
+      attribute: 3305885265
+      script: {fileID: 0}
+      classID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1678850031
+      attribute: 413499720
+      script: {fileID: 0}
+      classID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1678850031
+      attribute: 1872933342
+      script: {fileID: 0}
+      classID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1678850031
+      attribute: 4197328169
+      script: {fileID: 0}
+      classID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - path: 1678850031
+      attribute: 2368279999
+      script: {fileID: 0}
+      classID: 61
+      customType: 0
+      isPPtrCurve: 0
+    - path: 510041717
+      attribute: 2086281974
+      script: {fileID: 0}
+      classID: 1
+      customType: 0
+      isPPtrCurve: 0
+    - path: 0
+      attribute: 1696584023
+      script: {fileID: 11500000, guid: 89e7d87696fda0d43833ba95c29132ad, type: 3}
+      classID: 114
+      customType: 0
+      isPPtrCurve: 0
+    - path: 2663067592
+      attribute: 0
+      script: {fileID: 0}
+      classID: 212
+      customType: 23
+      isPPtrCurve: 1
+    - path: 0
+      attribute: 0
+      script: {fileID: 0}
+      classID: 212
+      customType: 23
+      isPPtrCurve: 1
+    pptrCurveMapping:
+    - {fileID: 21300004, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - {fileID: 21300006, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - {fileID: 21300008, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - {fileID: 21300010, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - {fileID: 21300010, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - {fileID: 21300010, guid: a09682cbcdc77dc48bb9e62f67501b4e, type: 3}
+    - {fileID: 21300000, guid: 9cf1088b8326e30499cba769b6ec8940, type: 3}
+    - {fileID: 21300004, guid: 9cf1088b8326e30499cba769b6ec8940, type: 3}
+    - {fileID: 21300002, guid: fb7dd26a34443204395b9249d4ede07c, type: 3}
+    - {fileID: 21300004, guid: fb7dd26a34443204395b9249d4ede07c, type: 3}
+    - {fileID: 21300004, guid: fb7dd26a34443204395b9249d4ede07c, type: 3}
+  m_AnimationClipSettings:
+    serializedVersion: 2
+    m_AdditiveReferencePoseClip: {fileID: 0}
+    m_AdditiveReferencePoseTime: 0
+    m_StartTime: 0
+    m_StopTime: 0.6666667
+    m_OrientationOffsetY: 0
+    m_Level: 0
+    m_CycleOffset: 0
+    m_HasAdditiveReferencePose: 0
+    m_LoopTime: 1
+    m_LoopBlend: 0
+    m_LoopBlendOrientation: 0
+    m_LoopBlendPositionY: 0
+    m_LoopBlendPositionXZ: 0
+    m_KeepOriginalOrientation: 0
+    m_KeepOriginalPositionY: 1
+    m_KeepOriginalPositionXZ: 0
+    m_HeightFromFeet: 0
+    m_Mirror: 0
+  m_EditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -6.68
+        inSlope: -37.199997
+        outSlope: -37.199997
+        tangentMode: 10
+      - time: 0.083333336
+        value: -9.78
+        inSlope: 1.0799999
+        outSlope: 1.0799999
+        tangentMode: 10
+      - time: 0.16666667
+        value: -6.5
+        inSlope: 34.139954
+        outSlope: 34.139954
+        tangentMode: 10
+      - time: 0.25
+        value: -4.0900073
+        inSlope: 62.519997
+        outSlope: 62.519997
+        tangentMode: 10
+      - time: 0.33333334
+        value: 3.92
+        inSlope: 48.06004
+        outSlope: 48.06004
+        tangentMode: 10
+      - time: 0.41666666
+        value: 3.92
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5
+        value: 3.92
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5833333
+        value: 3.92
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: weaponKnife
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -4.654189
+        inSlope: 4.6102695
+        outSlope: 4.6102695
+        tangentMode: 10
+      - time: 0.083333336
+        value: -4.27
+        inSlope: -0.6948652
+        outSlope: -0.6948652
+        tangentMode: 10
+      - time: 0.16666667
+        value: -4.77
+        inSlope: 5.880002
+        outSlope: 5.880002
+        tangentMode: 10
+      - time: 0.25
+        value: -3.2899997
+        inSlope: 30.239998
+        outSlope: 30.239998
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0.27
+        inSlope: 21.359995
+        outSlope: 21.359995
+        tangentMode: 10
+      - time: 0.41666666
+        value: 0.27
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5
+        value: 0.27
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5833333
+        value: 0.27
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: weaponKnife
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.083333336
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.16666667
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.25
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.33333334
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.41666666
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5833333
+        value: -0.5
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: weaponKnife
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.083333336
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.41666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: weaponKnife
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.083333336
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.41666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: weaponKnife
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -6.629611
+        inSlope: -104.5776
+        outSlope: -104.5776
+        tangentMode: 10
+      - time: 0.083333336
+        value: -15.344411
+        inSlope: -18.134361
+        outSlope: -18.134361
+        tangentMode: 10
+      - time: 0.25
+        value: -3.9596
+        inSlope: 57.912033
+        outSlope: 57.912033
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0
+        inSlope: 23.757597
+        outSlope: 23.757597
+        tangentMode: 10
+      - time: 0.41666666
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.5833333
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: weaponKnife
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.083333336
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.33333334
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Enabled
+    path: weaponKnife/weaponKnifeCollider
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 5.61
+        inSlope: 96.47992
+        outSlope: 96.47992
+        tangentMode: 10
+      - time: 0.083333336
+        value: 13.649993
+        inSlope: 41.640003
+        outSlope: 41.640003
+        tangentMode: 10
+      - time: 0.16666667
+        value: 12.55
+        inSlope: -11.579956
+        outSlope: -11.579956
+        tangentMode: 10
+      - time: 0.25
+        value: 11.72
+        inSlope: -19.739998
+        outSlope: -19.739998
+        tangentMode: 10
+      - time: 0.33333334
+        value: 9.26
+        inSlope: -29.519997
+        outSlope: -29.519997
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.x
+    path: weaponKnife/weaponKnifeCollider
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 79.07998
+        outSlope: 79.07998
+        tangentMode: 10
+      - time: 0.083333336
+        value: 6.5899982
+        inSlope: 36
+        outSlope: 36
+        tangentMode: 10
+      - time: 0.16666667
+        value: 6
+        inSlope: -3.5399895
+        outSlope: -3.5399895
+        tangentMode: 10
+      - time: 0.25
+        value: 6
+        inSlope: -32.519997
+        outSlope: -32.519997
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0.58
+        inSlope: -65.03999
+        outSlope: -65.03999
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.y
+    path: weaponKnife/weaponKnifeCollider
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.083333336
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.16666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalPosition.z
+    path: weaponKnife/weaponKnifeCollider
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.083333336
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.16666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.x
+    path: weaponKnife/weaponKnifeCollider
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.083333336
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.16666667
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.25
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0
+        inSlope: 0
+        outSlope: 0
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.y
+    path: weaponKnife/weaponKnifeCollider
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: -12.4071
+        inSlope: 332.60516
+        outSlope: 332.60516
+        tangentMode: 10
+      - time: 0.083333336
+        value: 15.309999
+        inSlope: 141.77458
+        outSlope: 141.77458
+        tangentMode: 10
+      - time: 0.16666667
+        value: 11.222
+        inSlope: -65.886
+        outSlope: -65.886
+        tangentMode: 10
+      - time: 0.25
+        value: 4.329
+        inSlope: -67.332
+        outSlope: -67.332
+        tangentMode: 10
+      - time: 0.33333334
+        value: 0
+        inSlope: -51.947994
+        outSlope: -51.947994
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: localEulerAnglesRaw.z
+    path: weaponKnife/weaponKnifeCollider
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.17329359
+        inSlope: 28.107674
+        outSlope: 28.107674
+        tangentMode: 10
+      - time: 0.083333336
+        value: 2.5155997
+        inSlope: 2.9741535
+        outSlope: 2.9741535
+        tangentMode: 10
+      - time: 0.16666667
+        value: 0.66898584
+        inSlope: -11.081834
+        outSlope: -11.081834
+        tangentMode: 10
+      - time: 0.25
+        value: 0.66862744
+        inSlope: -0.004300833
+        outSlope: -0.004300833
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Offset.x
+    path: weaponKnife/weaponKnifeCollider
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0.2888439
+        inSlope: 10.402207
+        outSlope: 10.402207
+        tangentMode: 10
+      - time: 0.083333336
+        value: 1.1556945
+        inSlope: 10.223939
+        outSlope: 10.223939
+        tangentMode: 10
+      - time: 0.16666667
+        value: 1.9928337
+        inSlope: -11.714191
+        outSlope: -11.714191
+        tangentMode: 10
+      - time: 0.25
+        value: -0.7966702
+        inSlope: -33.474052
+        outSlope: -33.474052
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Offset.y
+    path: weaponKnife/weaponKnifeCollider
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 1.3466188
+        inSlope: 108.27482
+        outSlope: 108.27482
+        tangentMode: 10
+      - time: 0.083333336
+        value: 10.36952
+        inSlope: 76.30177
+        outSlope: 76.30177
+        tangentMode: 10
+      - time: 0.16666667
+        value: 14.0635805
+        inSlope: 22.164356
+        outSlope: 22.164356
+        tangentMode: 10
+      - time: 0.25
+        value: 14.06358
+        inSlope: -0.000011444093
+        outSlope: -0.000011444093
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Size.x
+    path: weaponKnife/weaponKnifeCollider
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 4.25814
+        inSlope: -20.80279
+        outSlope: -20.80279
+        tangentMode: 10
+      - time: 0.083333336
+        value: 2.5245743
+        inSlope: 5.5576544
+        outSlope: 5.5576544
+        tangentMode: 10
+      - time: 0.16666667
+        value: 5.184416
+        inSlope: 17.434708
+        outSlope: 17.434708
+        tangentMode: 10
+      - time: 0.25
+        value: 5.430359
+        inSlope: 2.951317
+        outSlope: 2.951317
+        tangentMode: 10
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_Size.y
+    path: weaponKnife/weaponKnifeCollider
+    classID: 61
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.083333336
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.5
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.5833333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.6666667
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_IsActive
+    path: Eff
+    classID: 1
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve:
+      - time: 0
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.083333336
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.5
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.5833333
+        value: 0
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      - time: 0.6666667
+        value: 1
+        inSlope: Infinity
+        outSlope: Infinity
+        tangentMode: 31
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: canAtk1
+    path: 
+    classID: 114
+    script: {fileID: 11500000, guid: 89e7d87696fda0d43833ba95c29132ad, type: 3}
+  m_EulerEditorCurves:
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: weaponKnife
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: weaponKnife
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: weaponKnife
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: weaponKnife/weaponKnifeCollider
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.y
+    path: weaponKnife/weaponKnifeCollider
+    classID: 4
+    script: {fileID: 0}
+  - curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.z
+    path: weaponKnife/weaponKnifeCollider
+    classID: 4
+    script: {fileID: 0}
+  m_HasGenericRootTransform: 0
+  m_HasMotionFloatCurves: 0
+  m_GenerateMotionCurves: 0
+  m_Events: []

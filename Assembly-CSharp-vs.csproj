@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+	<Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+	<Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+	<ProductVersion>10.0.20506</ProductVersion>
+	<SchemaVersion>2.0</SchemaVersion>
+	<ProjectGuid>{5B580621-09B4-68CB-B5F4-5B9DD210A60F}</ProjectGuid>
+	<OutputType>Library</OutputType>
+	<AppDesignerFolder>Properties</AppDesignerFolder>
+	<RootNamespace></RootNamespace>
+	<AssemblyName>Assembly-CSharp</AssemblyName>
+	<TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+	<FileAlignment>512</FileAlignment>
+	<BaseDirectory>Assets</BaseDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+	<DebugSymbols>true</DebugSymbols>
+	<DebugType>full</DebugType>
+	<Optimize>false</Optimize>
+	<OutputPath>Temp\bin\Debug\</OutputPath>
+	<DefineConstants>DEBUG;TRACE;UNITY_5_1_4;UNITY_5_1;UNITY_5;ENABLE_NEW_BUGREPORTER;ENABLE_2D_PHYSICS;ENABLE_4_6_FEATURES;ENABLE_AUDIO;ENABLE_CACHING;ENABLE_CLOTH;ENABLE_FRAME_DEBUGGER;ENABLE_GENERICS;ENABLE_HOME_SCREEN;ENABLE_IMAGEEFFECTS;ENABLE_LIGHT_PROBES_LEGACY;ENABLE_MICROPHONE;ENABLE_MULTIPLE_DISPLAYS;ENABLE_PHYSICS;ENABLE_PHYSICS_PHYSX3;ENABLE_PLUGIN_INSPECTOR;ENABLE_SHADOWS;ENABLE_SINGLE_INSTANCE_BUILD_SETTING;ENABLE_SPRITES;ENABLE_TERRAIN;ENABLE_UNET;ENABLE_UNITYEVENTS;ENABLE_VR;ENABLE_WEBCAM;ENABLE_WWW;ENABLE_CLOUD_SERVICES;ENABLE_CLOUD_SERVICES_ANALYTICS;ENABLE_CLOUD_SERVICES_UNET;ENABLE_CLOUD_LICENSE;ENABLE_AUDIOMIXER_SUSPEND;ENABLE_EDITOR_METRICS;INCLUDE_DYNAMIC_GI;INCLUDE_GI;INCLUDE_IL2CPP;INCLUDE_DIRECTX12;PLATFORM_SUPPORTS_MONO;ENABLE_LOCALIZATION;UNITY_IPHONE;ENABLE_RUNTIME_GI;ENABLE_SUBSTANCE;ENABLE_GAMECENTER;ENABLE_NETWORK;UNITY_IPHONE_API;UNITY_IOS;ENABLE_TEXTUREID_MAP;PLAYERCONNECTION_LISTENS_FIXED_PORT;DEBUGGER_LISTENS_FIXED_PORT;ENABLE_MONO;ENABLE_PROFILER;DEBUG;TRACE;UNITY_ASSERTIONS;UNITY_EDITOR;UNITY_EDITOR_64;UNITY_EDITOR_WIN;7</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+	<DebugType>pdbonly</DebugType>
+	<Optimize>true</Optimize>
+	<OutputPath>Temp\bin\Release\</OutputPath>
+	<DefineConstants>TRACE</DefineConstants>
+	<ErrorReport>prompt</ErrorReport>
+	<WarningLevel>4</WarningLevel>
+	<NoWarn>0169</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+	<Reference Include="System" />
+    <Reference Include="System.XML" />
+	<Reference Include="System.Core" />
+	<Reference Include="System.Xml.Linq" />
+	<Reference Include="UnityEngine">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+	</Reference>
+	<Reference Include="UnityEditor">
+	  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+	</Reference>
+  </ItemGroup>
+  <ItemGroup>
+     <Compile Include="Assets\MobileInput\Scripts\CrossPlatformInputManager.cs" />
+     <Compile Include="Assets\MobileInput\Scripts\Joystick.cs" />
+     <Compile Include="Assets\MobileInput\Scripts\MobileControlRig.cs" />
+     <Compile Include="Assets\MobileInput\Scripts\PlatformSpecific\MobileInput.cs" />
+     <Compile Include="Assets\MobileInput\Scripts\PlatformSpecific\StandaloneInput.cs" />
+     <Compile Include="Assets\MobileInput\Scripts\VirtualInput.cs" />
+     <Compile Include="Assets\PauseManager.cs" />
+     <Compile Include="Assets\Scripts\BackgroundParallax.cs" />
+     <Compile Include="Assets\Scripts\BackgroundPropSpawner.cs" />
+     <Compile Include="Assets\Scripts\Bomb.cs" />
+     <Compile Include="Assets\Scripts\BombPickup.cs" />
+     <Compile Include="Assets\Scripts\CameraFollow.cs" />
+     <Compile Include="Assets\Scripts\Destroyer.cs" />
+     <Compile Include="Assets\Scripts\Enemy.cs" />
+     <Compile Include="Assets\Scripts\Enemy\EnemyAttack.cs" />
+     <Compile Include="Assets\Scripts\Enemy\EnemyHealth.cs" />
+     <Compile Include="Assets\Scripts\Enemy\EnemyMovement.cs" />
+     <Compile Include="Assets\Scripts\FollowPlayer.cs" />
+     <Compile Include="Assets\Scripts\Gun.cs" />
+     <Compile Include="Assets\Scripts\HealthPickup.cs" />
+     <Compile Include="Assets\Scripts\LayBombs.cs" />
+     <Compile Include="Assets\Scripts\Managers\EnemyManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\GameOverManager.cs" />
+     <Compile Include="Assets\Scripts\Managers\ScoreManager.cs" />
+     <Compile Include="Assets\Scripts\Pauser.cs" />
+     <Compile Include="Assets\Scripts\PickupSpawner.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerHealth.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
+     <Compile Include="Assets\Scripts\Player\PlayerShooting.cs" />
+     <Compile Include="Assets\Scripts\PlayerControl.cs" />
+     <Compile Include="Assets\Scripts\Remover.cs" />
+     <Compile Include="Assets\Scripts\Rocket.cs" />
+     <Compile Include="Assets\Scripts\Score.cs" />
+     <Compile Include="Assets\Scripts\ScoreShadow.cs" />
+     <Compile Include="Assets\Scripts\SetParticleSortingLayer.cs" />
+     <Compile Include="Assets\Scripts\Spawner.cs" />
+     <Compile Include="Assets\Scripts\aPlayerHealth.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\BmoveScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\LOGO.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\Level1Area\Area1.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\Level1Area\Area2.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\Level1Area\Area3.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\PointUp.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\RandomSystem\BossCreat.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\RandomSystem\FinalAreaActive.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\RandomSystem\RandomCreat.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\RendererExtensions.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\ScrollingScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\UI\BackGround.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\UI\CameraYbot.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\UI\CameraYtop.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\UI\DmgPoint.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\UI\ScoreScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\UI\StartMenu\FadeOutIn.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\UI\StartMenu\LoadLevelOne.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\UI\StartMenu\StartMenu.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\UI\hitEff.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\atk.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\awakeTransform.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\deathTrigger.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\enemyCode\EnemyHealthScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\enemyCode\EnemyScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\enemyCode\Rabbit\playerDetection.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\enemyCode\Rabbit\rabbitMove.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\enemyCode\simpleRice\moveScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\enemyCode\simpleRice\riceGroundCheckSprite.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\gameMaster.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\healthScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\shotScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\HpBarPosition.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\WeaponSystem\KnifeSystem.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\cameraFollowPlayer.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\cameraScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\checkWallScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\groundCheck.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\playerC.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\playerHealthScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\playerStopWallScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\wallJumpCheckScript.cs" />
+     <Compile Include="Assets\SpriteSheet\CODE\主角\weaponScript.cs" />
+     <Compile Include="Assets\SpriteSheet\牛boss\CODE\BossCowAI.cs" />
+     <Compile Include="Assets\SpriteSheet\牛boss\CODE\leftSideWall.cs" />
+     <Compile Include="Assets\SpriteSheet\黑熊\CODE\TaiwanBearAI.cs" />
+     <Compile Include="Assets\practice\enemyCode.cs" />
+ <Reference Include="UnityEngine.UI">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Networking">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEngine.Analytics">
+ <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.iOS.Extensions.Xcode">
+ <HintPath>C:/Program Files/Unity/Editor/Data/PlaybackEngines/iOSSupport/UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
+ </Reference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+	   Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  
+</Project>
